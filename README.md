@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Prueba Modulo 2 Repositorio PrepCourse Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde gitub a mi computadora
